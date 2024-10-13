@@ -1,1 +1,6 @@
 # Exploratory-data-analysis
+Exploratory Data Analysis (EDA) is a critical step in data analysis that involves summarizing a dataset's key characteristics, often using visual methods. The goal of EDA is to understand the underlying patterns, detect anomalies, test hypotheses, and check assumptions using statistical graphs and data visualization techniques. It helps analysts grasp the distribution of variables, relationships between them, and outliers that might skew analysis.
+
+Key EDA tasks include understanding data types, handling missing data, and calculating descriptive statistics such as mean, median, variance, and standard deviation. Visualization techniques like histograms, scatter plots, box plots, and bar charts are commonly used to represent data visually and identify trends, correlations, and patterns.
+
+EDA serves as a guide for choosing the appropriate machine learning models or statistical techniques for further analysis. It is an iterative process, as the insights gained often lead to refined questions or adjustments in analysis. By revealing data structure and potential relationships, EDA ensures more accurate and informed decision-making. It is particularly useful for ensuring data quality, preventing biased or flawed interpretations, and enhancing the overall effectiveness of data modeling efforts.
